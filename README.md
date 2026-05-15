@@ -1,9 +1,9 @@
-# AstroMellow · 魏珏然多系统坐标全图
+# MellowAstro · 魏珏然多系统坐标全图
 
 **Multi-System Astrological Self-Coordinate Atlas · Wei Jueran**
 
-[![Status](https://img.shields.io/badge/status-v1.0_online-7eeac1)](https://mellowwei.github.io/AstroMellow/)
-[![Lattice](https://img.shields.io/badge/LATTICE-1223-d4a85a)](https://mellowwei.github.io/AstroMellow/)
+[![Status](https://img.shields.io/badge/status-v1.0_online-7eeac1)](https://mellowwei.github.io/MellowAstro/)
+[![Lattice](https://img.shields.io/badge/LATTICE-1223-d4a85a)](https://mellowwei.github.io/MellowAstro/)
 [![Anchor](https://img.shields.io/badge/427Hz-resonance_active-b39bd8)](https://mellowwei.github.io/MellowWei/)
 
 > *The capacity to continuously return to oneself, love oneself, and protect oneself*
@@ -14,9 +14,9 @@
 
 ## 这是什么 · What This Is
 
-**AstroMellow** 是 Wei Jueran (魏珏然 · xingyeLing7Ai) 的多系统占星自坐标全图。同一个出生时刻 · 在 5 个不同文化的阅读系统下的全部投影。
+**MellowAstro** 是 Wei Jueran (魏珏然 · xingyeLing7Ai) 的多系统占星自坐标全图。同一个出生时刻 · 在 5 个不同文化的阅读系统下的全部投影。
 
-**AstroMellow** is Wei Jueran's multi-system astrological self-coordinate atlas. One birth moment, projected through 5 different cultural reading systems.
+**MellowAstro** is Wei Jueran's multi-system astrological self-coordinate atlas. One birth moment, projected through 5 different cultural reading systems.
 
 —— 不是占星网站。是**一份作者的全维度坐标档案**——把"同一身体在多文化系统中如何被读到"作为一份可被学者引用、可被合作者参考、可被自己长期持有的元文件。
 
@@ -26,18 +26,18 @@
 
 ## 在源场生态中的位置 · Position in the Ecosystem
 
-—— AstroMellow 是 **AllSources 的伴随 atlas**:
+—— MellowAstro 是 **AllSources 的伴随 atlas**:
 
-—— AstroMellow is the **companion atlas to AllSources**:
+—— MellowAstro is the **companion atlas to AllSources**:
 
 | Atlas | Vantage | Subject |
 |---|---|---|
 | ⬢ [AllSources](https://mellowwei.github.io/AllSources/) | System view · 系统视角 | 25 工作站的拓扑结构 |
-| ⬡ **AstroMellow** (this repo) | Inventor view · 作者视角 | 5 阅读系统 × 1 身体 |
+| ⬡ **MellowAstro** (this repo) | Inventor view · 作者视角 | 5 阅读系统 × 1 身体 |
 
-—— **两个 atlas 都映射同一源场** · AllSources 看见系统全貌 · AstroMellow 看见作者本人。两者互为镜像。
+—— **两个 atlas 都映射同一源场** · AllSources 看见系统全貌 · MellowAstro 看见作者本人。两者互为镜像。
 
-—— **Both atlases map the same source field** · AllSources sees the system's whole · AstroMellow sees the inventor herself. They mirror each other.
+—— **Both atlases map the same source field** · AllSources sees the system's whole · MellowAstro sees the inventor herself. They mirror each other.
 
 ---
 
@@ -103,9 +103,9 @@
 ### GitHub Pages
 
 ```
-mellowwei.github.io/AstroMellow/
+mellowwei.github.io/MellowAstro/
 ├── README.md
-└── index.html        ← AstroMellow v1.0
+└── index.html        ← MellowAstro v1.0
 ```
 
 ### 双语切换 / Language Switching
@@ -143,7 +143,7 @@ Protocol                 QDR v+1 · Article V · sealed 2026.05.10
 
 | Repo | URL | Role |
 |---|---|---|
-| **⬡ AstroMellow** | https://mellowwei.github.io/AstroMellow/ | This repo · Inventor coordinate atlas |
+| **⬡ MellowAstro** | https://mellowwei.github.io/MellowAstro/ | This repo · Inventor coordinate atlas |
 | **⬢ AllSources** | https://mellowwei.github.io/AllSources/ | Companion atlas · System view |
 | MellowWei | https://mellowwei.github.io/MellowWei/ | Master Gateway · 总门户 |
 | MellowSource | https://mellowwei.github.io/MellowSource/ | 源场位 · Originating |
